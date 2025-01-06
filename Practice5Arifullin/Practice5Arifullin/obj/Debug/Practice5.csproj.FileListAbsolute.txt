@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\bin\Debug\Practice5.exe.config
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\bin\Debug\Practice5.exe
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\bin\Debug\Practice5.pdb
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.AddCompTech.resources
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.AddKeyboard.resources
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.AddScreen.resources
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.MainForm.resources
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.Properties.Resources.resources
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.exe
+C:\Users\user\source\repos\Practice5Arifullin\Practice5Arifullin\obj\Debug\Practice5.pdb
